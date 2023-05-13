@@ -265,3 +265,5 @@ Para criar uma tag anotada, que inclui uma mensagem de tag, use o comando `git t
 Para fazer o push de uma tag para um repositório remoto, use o comando `git push origin nome_da_tag`. Isso irá enviar a tag especificada para o repositório remoto, permitindo que outros desenvolvedores acessem a tag. Se você quiser fazer o push de todas as tags existentes para um repositório remoto, use o comando `git push --tags`.
     
 Em resumo, o comando `git tag` é usado para criar, listar e deletar tags no Git. As tags são úteis para marcar pontos importantes na história do projeto e para criar releases para o projeto. Para usar o `git tag`, basta seguir as instruções acima e adaptá-las às suas necessidades específicas.
+
+Site para ajudar a entender como funcionam as Branch: https://git-school.github.io/visualizing-git/
